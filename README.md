@@ -47,6 +47,10 @@ It simulates a **simple autonomous research agent** — ideal for education, pro
 
 **screenshots**: 
 
+- https://github.com/ilsafaisal15/Mini-Research-Agent/blob/main/Screenshot%202025-07-19%20202005.png
+
+---
+
 
 ## 🚀 Getting Started (Local / Colab)
 
